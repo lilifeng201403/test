@@ -1,0 +1,197 @@
+2016-07-15 11:14:51,488 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-root:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\pom.xml.
+2016-07-15 11:14:52,747 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-root:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\pom.xml.
+2016-07-15 11:16:40,226 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-beans:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-beans\pom.xml.
+2016-07-15 11:16:40,792 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-beans/src/main/java
+2016-07-15 11:16:40,793 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /test-beans/src/main/resources
+2016-07-15 11:16:40,794 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-beans/src/test/java
+2016-07-15 11:16:40,794 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /test-beans/src/test/resources
+2016-07-15 11:16:41,366 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-beans:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-beans\pom.xml.
+2016-07-15 11:16:41,849 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:16:41,862 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:16:41,864 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:16:41,865 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:16:42,027 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-beans:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-beans\pom.xml.
+2016-07-15 11:16:42,313 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:16:42,315 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:16:42,316 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:16:42,317 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:16:42,361 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-root:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\pom.xml.
+2016-07-15 11:16:42,395 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-beans:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-beans\pom.xml.
+2016-07-15 11:16:43,551 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:16:43,552 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:16:43,554 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:16:43,555 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:20:14,318 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\TFS2013\cn.gyyx.test\test-root\test-beans\pom.xml
+2016-07-15 11:20:14,383 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-beans:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-beans\pom.xml.
+2016-07-15 11:20:14,487 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-beans/src/main/java
+2016-07-15 11:20:14,490 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-beans/src/test/java
+2016-07-15 11:20:14,535 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2016-07-15 11:20:14,908 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-beans:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-beans\pom.xml.
+2016-07-15 11:20:15,040 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:20:15,040 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-beans\src\main\resources
+2016-07-15 11:20:15,041 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:20:15,041 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-beans\src\test\resources
+2016-07-15 11:20:15,665 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-beans:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-beans\pom.xml.
+2016-07-15 11:20:16,120 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:20:16,120 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-beans\src\main\resources
+2016-07-15 11:20:16,121 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:20:16,121 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-beans\src\test\resources
+2016-07-15 11:21:07,483 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\TFS2013\cn.gyyx.test\test-root\test-dao\pom.xml
+2016-07-15 11:21:07,538 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-dao:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-dao\pom.xml.
+2016-07-15 11:21:07,713 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-dao/src/main/java
+2016-07-15 11:21:07,716 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-dao/src/test/java
+2016-07-15 11:21:07,758 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2016-07-15 11:21:07,849 [Worker-12] ERROR o.e.m.c.u.i.w.MavenModuleWizard - Cannot add module to parent POM
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.getChild(PomEdits.java:279) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenModuleWizard$7$1.process(MavenModuleWizard.java:280) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:460) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenModuleWizard$7.done(MavenModuleWizard.java:277) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.core.internal.jobs.JobListeners$3.notify(JobListeners.java:39) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.JobListeners.doNotify(JobListeners.java:112) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.JobListeners.done(JobListeners.java:152) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.JobManager.endJob(JobManager.java:647) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.WorkerPool.endJob(WorkerPool.java:105) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:70) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+2016-07-15 11:21:08,029 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-dao:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-dao\pom.xml.
+2016-07-15 11:21:08,180 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:21:08,180 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-dao\src\main\resources
+2016-07-15 11:21:08,182 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:21:08,182 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-dao\src\test\resources
+2016-07-15 11:21:08,894 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-dao:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-dao\pom.xml.
+2016-07-15 11:21:09,267 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:21:09,267 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-dao\src\main\resources
+2016-07-15 11:21:09,269 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:21:09,270 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-dao\src\test\resources
+2016-07-15 11:21:54,948 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\TFS2013\cn.gyyx.test\test-root\test-bll\pom.xml
+2016-07-15 11:21:55,006 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-bll:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-bll\pom.xml.
+2016-07-15 11:21:55,101 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-bll/src/main/java
+2016-07-15 11:21:55,104 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-bll/src/test/java
+2016-07-15 11:21:55,146 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2016-07-15 11:21:55,171 [Worker-11] ERROR o.e.m.c.u.i.w.MavenModuleWizard - Cannot add module to parent POM
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.getChild(PomEdits.java:279) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenModuleWizard$7$1.process(MavenModuleWizard.java:280) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:460) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenModuleWizard$7.done(MavenModuleWizard.java:277) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.core.internal.jobs.JobListeners$3.notify(JobListeners.java:39) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.JobListeners.doNotify(JobListeners.java:112) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.JobListeners.done(JobListeners.java:152) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.JobManager.endJob(JobManager.java:647) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.WorkerPool.endJob(WorkerPool.java:105) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:70) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+2016-07-15 11:21:55,385 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-bll:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-bll\pom.xml.
+2016-07-15 11:21:55,500 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:21:55,501 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-bll\src\main\resources
+2016-07-15 11:21:55,504 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:21:55,504 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-bll\src\test\resources
+2016-07-15 11:21:56,284 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-bll:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-bll\pom.xml.
+2016-07-15 11:21:56,543 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:21:56,543 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-bll\src\main\resources
+2016-07-15 11:21:56,546 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:21:56,546 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-bll\src\test\resources
+2016-07-15 11:22:32,087 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\TFS2013\cn.gyyx.test\test-root\test-service\pom.xml
+2016-07-15 11:22:32,145 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-service:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-service\pom.xml.
+2016-07-15 11:22:32,229 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-service/src/main/java
+2016-07-15 11:22:32,232 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-service/src/test/java
+2016-07-15 11:22:32,274 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2016-07-15 11:22:32,303 [Worker-13] ERROR o.e.m.c.u.i.w.MavenModuleWizard - Cannot add module to parent POM
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.getChild(PomEdits.java:279) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenModuleWizard$7$1.process(MavenModuleWizard.java:280) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:460) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenModuleWizard$7.done(MavenModuleWizard.java:277) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.core.internal.jobs.JobListeners$3.notify(JobListeners.java:39) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.JobListeners.doNotify(JobListeners.java:112) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.JobListeners.done(JobListeners.java:152) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.JobManager.endJob(JobManager.java:647) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.WorkerPool.endJob(WorkerPool.java:105) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:70) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+2016-07-15 11:22:32,515 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-service:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-service\pom.xml.
+2016-07-15 11:22:32,636 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:22:32,636 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-service\src\main\resources
+2016-07-15 11:22:32,637 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:22:32,637 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-service\src\test\resources
+2016-07-15 11:22:33,416 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx.test:test-service:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-service\pom.xml.
+2016-07-15 11:22:33,683 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:22:33,683 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-service\src\main\resources
+2016-07-15 11:22:33,685 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-15 11:22:33,686 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TFS2013\cn.gyyx.test\test-root\test-service\src\test\resources
+2016-07-15 11:25:09,779 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx:test:1.0.0-BUILD-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-ui\pom.xml.
+2016-07-15 11:25:10,980 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:25:10,981 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-15 11:25:10,989 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:25:10,990 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-15 11:25:11,860 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:25:11,861 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-15 11:25:11,865 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:25:11,866 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-15 11:25:11,948 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx:test:1.0.0-BUILD-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-ui\pom.xml.
+2016-07-15 11:25:21,734 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:25:21,735 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:25:21,736 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:25:21,737 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:32:20,091 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-beans:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-beans\pom.xml.
+2016-07-15 11:32:40,382 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-bll:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-bll\pom.xml.
+2016-07-15 11:32:53,084 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-dao:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-dao\pom.xml.
+2016-07-15 11:33:07,014 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-service:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-service\pom.xml.
+2016-07-15 11:33:21,359 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-root:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\pom.xml.
+2016-07-15 11:33:21,360 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-beans:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-beans\pom.xml.
+2016-07-15 11:33:21,364 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-bll:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-bll\pom.xml.
+2016-07-15 11:33:21,366 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-dao:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-dao\pom.xml.
+2016-07-15 11:33:21,368 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-service:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-service\pom.xml.
+2016-07-15 11:34:34,042 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: cn.gyyx.test:test-dao:0.0.1-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-dao\pom.xml.
+2016-07-15 11:35:16,991 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx:test:1.0.0-BUILD-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-ui\pom.xml.
+2016-07-15 11:35:17,295 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:35:17,296 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:35:17,297 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:35:17,298 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:35:38,535 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx:test:1.0.0-BUILD-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-ui\pom.xml.
+2016-07-15 11:35:38,826 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:35:38,827 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:35:38,829 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:35:38,830 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:36:09,042 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:36:09,049 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-15 11:36:09,053 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:36:09,054 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:36:27,676 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:36:27,677 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-15 11:36:27,679 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:36:27,679 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:37:00,964 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:37:00,965 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-15 11:37:00,968 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:37:00,968 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:38:30,467 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:38:30,467 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:38:30,468 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:38:30,469 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:38:49,081 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:38:49,082 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:38:49,084 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:38:49,085 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:39:04,019 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:39:04,020 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:39:04,021 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:39:04,022 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:39:59,128 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:39:59,128 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:39:59,130 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:39:59,131 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:41:23,753 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx:test:1.0.0-BUILD-SNAPSHOT @ D:\TFS2013\cn.gyyx.test\test-root\test-ui\pom.xml.
+2016-07-15 11:41:24,112 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:41:24,112 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:41:24,114 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:41:24,114 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:41:24,128 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of test-ui
+2016-07-15 11:41:24,128 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for test-ui
+2016-07-15 11:41:24,140 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:41:25,587 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:41:25,589 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-07-15 11:41:25,593 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:41:25,594 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-15 11:45:36,158 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:45:36,159 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-15 11:45:36,161 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-07-15 11:45:36,162 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
